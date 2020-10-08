@@ -1,0 +1,33 @@
+
+.g{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active{
+  background-color: #669999;
+}
+.lorem{
+    background-color:#ff99cc;
+    padding:5px;
+    border-radius: 17px;
+    margin-left: 10px;
+    margin-right: 20px;
+
+  }
+
